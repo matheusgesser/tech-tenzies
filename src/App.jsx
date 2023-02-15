@@ -125,12 +125,12 @@ export default function App() {
         <a
         href="https://github.com/matheusgesser"
         target={"_blank"}>
-          <Icon src="./src/assets/github.svg" alt="Github Logo"/>
+          <Icon src={githubIcon} alt="Github Logo"/>
         </a>
         <a
         href="https://www.linkedin.com/in/matheusgesser/"
         target={"_blank"}>
-          <Icon src="./src/assets/linkedin.svg" alt="LinkedIn Logo"/>
+          <Icon src={LinkedInIcon} alt="LinkedIn Logo"/>
         </a>
       </Socials>
     </>
