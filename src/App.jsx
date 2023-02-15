@@ -7,6 +7,10 @@ import Instructions from "./components/Instructions"
 import Dice from "./components/Dice"
 import Confetti from 'react-confetti'
 
+// Assets
+import githubIcon from "./src/assets/github.svg"
+import LinkedInIcon from "./src/assets/linkedin.svg"
+
 export default function App() {
   const [dice, setDice] = React.useState(generateDiceElements())
   const [won, setWon] = React.useState(false)
