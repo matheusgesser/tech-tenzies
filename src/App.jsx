@@ -127,14 +127,9 @@ export default function App() {
       </Game>
       <Socials>
         <a
-        href="https://github.com/matheusgesser"
+        href="https://github.com/matheusgesser/TechTenzies"
         target={"_blank"}>
           <Icon src={githubIcon} alt="Github Logo"/>
-        </a>
-        <a
-        href="https://www.linkedin.com/in/matheusgesser/"
-        target={"_blank"}>
-          <Icon src={LinkedInIcon} alt="LinkedIn Logo"/>
         </a>
       </Socials>
     </>
