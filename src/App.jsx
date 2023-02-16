@@ -213,12 +213,14 @@ const MyButton = styled.button`
 const Socials = styled.div`
   display: flex;
   align-items: center;
-  gap: 1rem;
-  height: 4rem;
-  background: #eee;
+  justify-content: center;
   position: absolute;
   bottom: 0.5rem;
+  padding: 1rem;
+  height: 2rem;
+  width: 2rem;
   border-radius: 30px;
+  background: #eee;
 `
 
 const Icon = styled.img`
