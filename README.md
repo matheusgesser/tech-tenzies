@@ -1,13 +1,11 @@
 # TechTenzies
 
-React, Vite, StyledComponents
-
-# Preview/Demo
-
-https://techtenzies.netlify.app/
-
 <img src="https://i.imgur.com/9RdKI4k.jpg" />
-<img src="https://i.imgur.com/PWqtHiX.jpg" />
+
+React, Vite, StyledComponents
+>Um simples jogo, onde o objetivo é obter o mesmo valor em todas peças.
+
+Acewsse: <a href='https://techtenzies.netlify.app/'>https://techtenzies.netlify.app/</a>
 
 ## 💻 **Tecnologias**
 
