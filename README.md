@@ -5,7 +5,7 @@
 React, Vite, StyledComponents
 >Um simples jogo, onde o objetivo é obter o mesmo valor em todas peças.
 
-Acewsse: <a href='https://techtenzies.netlify.app/'>https://techtenzies.netlify.app/</a>
+Acewsse: <a href='https://techtenzies.netlify.app/'>techtenzies.netlify.app</a>
 
 ## 💻 **Tecnologias**
 
